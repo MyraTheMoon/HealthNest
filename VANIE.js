@@ -5,7 +5,7 @@
  * Version: 2.0 - Unified System
  */ 
 
-class VANIEAlgorithm {
+class VANIEAlgorithm { 
     constructor() {
         this.name = "VANIE - Virtual Assistant for Nursing & Health Information & Education";
         this.version = "2.0";
